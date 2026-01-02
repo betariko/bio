@@ -197,7 +197,7 @@ footer,
 }
 
 .download-btn:hover {
-  background-color: #ecc935;
+  background-color: var(--cta-hover-color);
 }
 
 .theme-btn,
@@ -225,7 +225,7 @@ footer,
 .contact-btn:hover,
 .download-btn {
   background-color: #ecc935;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 .contact-btn:hover {
