@@ -224,8 +224,8 @@ footer,
 
 .contact-btn:hover,
 .download-btn {
-  background-color: var(--btn-bg-color);
-  color: white;
+  background-color: #ecc935;
+  color: rgb(0, 0, 0);
 }
 
 .contact-btn:hover {
