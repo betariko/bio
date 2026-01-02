@@ -304,25 +304,31 @@ footer {
 }
 
 @media screen and (min-width: 900px) {
-  .skills,
-  .portfolio {
-    flex-direction: row;
-    width: 45rem;
-  }
+  /* Skills menjadi 1 kolom, portfolio tetap 2 kolom */
   .skills {
+    flex-direction: column; /* ← Diubah dari row ke column */
+    align-items: center;    /* ← Tambahkan untuk rata tengah */
+    width: 45rem;
     margin: 1rem auto 0;
   }
+  
   .portfolio {
+    flex-direction: row;    /* ← Portfolio tetap row */
+    width: 45rem;
     margin: 2rem auto;
     flex-wrap: wrap;
     justify-content: center;
   }
-
-    /* Mengatur wrapper untuk layout 1 kolom */
-  .wrapper {
-    width: 100%;
-    max-width: 45rem;
-    margin-bottom: 2rem;
-    text-align: left;
+  
+  /* Untuk skills wrapper (1 kolom) */
+  .skills .wrapper {
+    width: 100%;            /* ← Diubah dari calc(48%) ke 100% */
+    flex: none;
+    margin-bottom: 2rem;    /* ← Tambahkan jarak antar kategori */
+  }
+  
+  /* Untuk portfolio projects (tetap 2 kolom) */
+  .project-wrapper {
+    width: calc(48%);
   }
 }
