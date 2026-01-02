@@ -197,7 +197,7 @@ footer,
 }
 
 .download-btn:hover {
-  background-color: var(--cta-hover-color);
+  background-color: #ecc935;
 }
 
 .theme-btn,
