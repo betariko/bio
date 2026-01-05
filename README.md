@@ -46,7 +46,7 @@ Pelatihan Singkat & Support: Anda akan kami pandu untuk mengelola konten dasar, 
 
 Bayangkan 6 Bulan Mendatang...
 
-Dengan website profesional dari bio.betariko.com, cerita pagi Anda akan berbeda. Anda minum kopi sambil membuka dashboard analytics. Anda lihat ada 5 inquiry baru lewat website, 2 di antaranya sudah jadi janji meeting. Portofolio online Anda menjadi alasan klien berkata, "Saya pilih Anda karena website Anda terlihat paling bisa diandalkan." Anda tidak lagi mengejar klien, tapi dikelilingi oleh calon klien yang telah yakin sebelum menghubungi Anda.
+Dengan website profesional dari [bio.betariko.com](https://bio.betariko.com), cerita pagi Anda akan berbeda. Anda minum kopi sambil membuka dashboard analytics. Anda lihat ada 5 inquiry baru lewat website, 2 di antaranya sudah jadi janji meeting. Portofolio online Anda menjadi alasan klien berkata, "Saya pilih Anda karena website Anda terlihat paling bisa diandalkan." Anda tidak lagi mengejar klien, tapi dikelilingi oleh calon klien yang telah yakin sebelum menghubungi Anda.
 
 Website Anda adalah salesman terbaik yang tidak pernah tidur, tidak pernah minta gaji, dan bisa menjangkau siapa saja, kapan saja. Sudah waktunya Anda mempekerjakannya.
 
@@ -54,8 +54,8 @@ Jangan biarkan ketidakpastian dan kesibukan operasional membuat Anda menunda mem
 
 📢 Ambil Aksi Sekarang!
 
-Kunjungi bio.betariko.com sekarang. Lihat portofolio kami dan isi formulir konsultasi gratis. Ceritakan visi bisnis Anda, dan biarkan kami membantu Anda merancang website yang bukan hanya jadi pajangan, tapi jadi mesin pencetak klien.
+Kunjungi [bio.betariko.com](https://bio.betariko.com) sekarang. Lihat portofolio kami dan isi formulir konsultasi gratis. Ceritakan visi bisnis Anda, dan biarkan kami membantu Anda merancang website yang bukan hanya jadi pajangan, tapi jadi mesin pencetak klien.
 
-Klik di sini: bio.betariko.com – Mulai Bangun Panggung Digital Anda yang Sesungguhnya.
+Klik di sini: [bio.betariko.com](https://bio.betariko.com) – Mulai Bangun Panggung Digital Anda yang Sesungguhnya.
 
 Stop kehilangan peluang. Mulai tarik perhatian, bangun kredibilitas, dan tutup lebih banyak penjualan dengan website yang bekerja untuk Anda.
